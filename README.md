@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🚵‍♂ Developer and athlete <a href="https://www.strava.com/athletes/44408856" target="_blank" rel="noreferrer">Strava</a>
 - 🎓 I’m always learning Solidity, Web3
 - 🌮 I love Taquitos
-- 🕵 I’m looking to collaborate with Sith Lords Blockchain
+- 🕵 I’m looking to collaborate with Lords Sith Blockchain
 - ☕ Coffe is good to code but 🍷 wine is much better
 
 <h3 align="left">Connect with me:</h3>
